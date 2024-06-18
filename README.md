@@ -1,4 +1,4 @@
-# Pokémon API - NextJS - TypeScript
+# Pokémon API - NextJS - TypeScript - React Query
 
 - NextJS
 - TypeScript
