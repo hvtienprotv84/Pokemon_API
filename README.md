@@ -3,6 +3,7 @@
 - NextJS
 - TypeScript
 - Pokémon API
+- React Query
 - Mantine UI
 - Tabler Icons React
 
